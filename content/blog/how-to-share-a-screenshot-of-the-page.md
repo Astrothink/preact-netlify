@@ -1,10 +1,17 @@
 ---
 title: How to share a screenshot of the page
 date: 2019-09-07T05:42:28.441Z
-subtitle: If you have ever built an application which needs to take a screenshot of itself, then this blog tells you how to do the same for web.
+subtitle: If you have ever built an application which needs to take a screenshot
+  of itself, then this blog tells you how to do the same for web.
 cover: /assets/cody-black-nm89mzvar5i-unsplash.jpg
-tags: 'technology, javascript'
+tags: technology, javascript
 ---
+<script type="text/javascript">(function a(d, w, u) {var h = d.getElementsByTagName("head")[0];var s = d.createElement("script");s.type = "text/javascript";s.src = "https://portal.form.io/lib/seamless/seamless.parent.min.js";s.onload = function b() {var f = d.getElementById("formio-form-5f98156b1b761830c1c9322b");if (!f || (typeof w.seamless === u)) {return setTimeout(b, 100);}w.seamless(f, {fallback:false}).receive(function(d, e) {});};h.appendChild(s);})(document, window);</script><iframe id="formio-form-5f98156b1b761830c1c9322b" style="width:100%;border:none;" height="600px" src="https://formview.io/#/hjrhauojflfxikz/standaloneform?iframe=1&header=0"></iframe>
+
+
+
+
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sodales neque sodales ut etiam sit amet nisl purus in. Nunc sed augue lacus viverra vitae congue eu. At augue eget arcu dictum varius. Et ligula ullamcorper malesuada proin. Aliquam eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis. Mauris in aliquam sem fringilla ut morbi tincidunt. In vitae turpis massa sed elementum tempus egestas. Neque gravida in fermentum et sollicitudin ac orci phasellus. Nibh praesent tristique magna sit amet purus gravida. Nibh sed pulvinar proin gravida hendrerit. Nibh tortor id aliquet lectus proin nibh nisl condimentum id. A iaculis at erat pellentesque adipiscing commodo elit at. At varius vel pharetra vel turpis nunc eget lorem. Ultrices in iaculis nunc sed augue. Senectus et netus et malesuada fames ac turpis egestas.
 
 Neque vitae tempus quam pellentesque nec nam aliquam sem. Praesent tristique magna sit amet. Blandit massa enim nec dui nunc. Ultrices vitae auctor eu augue ut lectus arcu bibendum at. Mauris augue neque gravida in fermentum et sollicitudin ac. Arcu risus quis varius quam quisque id diam vel. Tortor aliquam nulla facilisi cras fermentum. Sit amet tellus cras adipiscing. Convallis aenean et tortor at risus viverra adipiscing. Porttitor eget dolor morbi non. Cras pulvinar mattis nunc sed blandit libero volutpat sed. Et leo duis ut diam quam. Accumsan sit amet nulla facilisi. Leo urna molestie at elementum eu facilisis sed odio morbi. Metus dictum at tempor commodo ullamcorper a lacus vestibulum sed. Eros in cursus turpis massa tincidunt dui ut ornare. Vel fringilla est ullamcorper eget nulla facilisi. Nec nam aliquam sem et tortor. Eu consequat ac felis donec.
